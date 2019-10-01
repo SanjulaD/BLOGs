@@ -1,3 +1,3 @@
 # BLOGs
 
-Landing pages Ui deisgns
+Landing pages Ui Designs
