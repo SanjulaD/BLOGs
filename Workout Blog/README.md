@@ -1,5 +1,5 @@
 # Workout-Blog
-Complete Fashion Blog Website FrontEnd Design 
+Complete Workout Blog Website FrontEnd Design 
 
 ### Clone
 Clone down this repository and switch into the working directory
