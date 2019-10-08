@@ -1,5 +1,5 @@
-# Fashion-Blog
-Complete Fashion Blog Website FrontEnd Design 
+# Travel-Blog
+Complete Travel Blog Website FrontEnd Design 
 
 ### Clone
 Clone down this repository and switch into the working directory
