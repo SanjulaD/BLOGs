@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: sans-serif;
+}
+.banner{
+  height: 100vh;
+  position: relative;
+}
+.slider{
+  width: 93%;
+  float: left;
+}
+.carousel-caption{
+  max-width: 500px !important;
+  max-height: 350px !important;
+  text-align: right !important;
+  right: 60px !important;
+  left: auto !important;
+  top : 150px !important;
+}
+.carousel-caption h1{
+  font-size: 70px;
+}
+.carousel-caption p{
+  margin-top: 40px;
+}
