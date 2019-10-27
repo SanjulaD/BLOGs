@@ -5,6 +5,7 @@ Landing Pages UI Designs
  * [Fashion Blog](https://github.com/Sanjulapro/BLOGs/tree/master/Fashion%20Blog)
  * [Travel Blog](https://github.com/Sanjulapro/BLOGs/tree/master/Travel%20Blog)
  * [Workout Blog](https://github.com/Sanjulapro/BLOGs/tree/master/Workout%20Blog)
+ * [E-Commerce Site](https://github.com/Sanjulapro/BLOGs/tree/master/Workout%20Blog)
  
  Use [Bootstrap CDN](https://getbootstrap.com) to Colorlfull you website.
  
