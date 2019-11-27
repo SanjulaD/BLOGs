@@ -5,7 +5,7 @@ Complete Travel Blog Website FrontEnd Design
 Clone down this repository and switch into the working directory
 ```sh
 https://github.com/Sanjulapro/Travel-Blog.git
-cd fashion-blog
+cd Travel-blog
 ```
 
 ### Bonus
